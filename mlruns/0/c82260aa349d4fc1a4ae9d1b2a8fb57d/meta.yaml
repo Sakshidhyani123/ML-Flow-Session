@@ -1,0 +1,15 @@
+artifact_uri: mlruns/0/c82260aa349d4fc1a4ae9d1b2a8fb57d/artifacts
+end_time: 1657864814833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c82260aa349d4fc1a4ae9d1b2a8fb57d
+run_uuid: c82260aa349d4fc1a4ae9d1b2a8fb57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657864733609
+status: 3
+tags: []
+user_id: sakshi

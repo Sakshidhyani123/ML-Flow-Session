@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/e272946642cd49bb8f43eadc7a30aa7a/artifacts
+end_time: 1657859528050
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e272946642cd49bb8f43eadc7a30aa7a
+run_uuid: e272946642cd49bb8f43eadc7a30aa7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1657859524316
+status: 3
+tags: []
+user_id: sakshi.dhyani
